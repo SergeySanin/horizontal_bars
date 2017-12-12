@@ -1,0 +1,17 @@
+$(document).ready(function(){
+   $(".slide-one").click(function(){
+    $("#myCarousel").carousel(0);
+  });
+   $(".slide-two").click(function(){
+    $("#myCarousel").carousel(1);
+  });
+   $(".slide-three").click(function(){
+    $("#myCarousel").carousel(2);
+  });
+    $(".slide-four").click(function(){
+    $("#myCarousel").carousel(3);
+  });
+     $(".slide-five").click(function(){
+    $("#myCarousel").carousel(4);
+  });
+});

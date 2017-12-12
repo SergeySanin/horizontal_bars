@@ -1,0 +1,57 @@
+@media (max-width: 575px) {
+.block__title {
+	font-size: 15px;
+	padding-top: 20px;
+}
+.call-order {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.call-order__phone-number {
+	font-size: 20px;
+}
+.main-photo {
+	height: 334px;
+	background-size: 100%;
+}
+.note {
+	bottom: -10px;
+}
+.discount {
+    left: 85px;
+    width: 100px;
+    height: 100px;
+    padding-top: 10px;
+}
+.time {
+	text-align: center;
+}
+.btn-order_middle {
+	margin-top: 20px;
+}
+.description {
+	margin-top: -4px;
+}
+.presentation__title {
+	font-size: 30px;
+}
+.products__title {
+	font-size: 30px;
+}
+.products__img {
+	width: 100%;
+}
+.results__caption_after {
+	width: 42%;
+    right: 30px;
+}
+.block {
+	text-align: center;
+}
+.carousel-indicators img {
+	max-width: 35px;
+}
+
+
+
+}

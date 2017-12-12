@@ -1,0 +1,94 @@
+@media (min-width: 768px) and (max-width: 991px) {
+ .block__title {
+	font-size: 17px;
+	padding-top: 20px;
+}
+.call-order__phone-number {
+	font-size: 16px;
+}
+.call-order__btn {
+	padding: 5px;
+	font-size: 15px;
+}
+.main-photo {
+	background-size: 100% 100%;
+}
+.discount {
+	width: 100px;
+	height: 100px;
+	padding-top: 10px;
+}
+.aside__text {
+	font-size: 20px;
+}
+.aside__text_size-small {
+	font-size: 12px;
+}
+.btn-order {
+	padding: 5px;
+}
+.time__title {
+	font-size: 10px;
+}
+.time__counter {
+	font-size: 27px;
+}
+.time__hour {
+	font-size: 10px;
+	word-spacing: 15px;
+}
+.stock__title {
+	font-size: 15px;
+}
+.stock__text {
+	font-size: 15px;
+}
+.stock__number {
+	font-size: 20px;
+}
+.slider-header__count {
+	padding: 10px;
+}
+.slider-header__text_third {
+	font-size: 20px;
+}
+.slider-header__price {
+	padding-top: 10px;
+}
+.slider-header__count_number {
+	font-size: 25px;
+}
+.btn-order_middle {
+	margin-top: -3px;
+}
+.products__img {
+	width: 100%;
+}
+.products__text {
+	padding-left: 20px;
+}
+.products__img-caption {
+	width: 87%;
+}
+.video {
+	padding-bottom: 60px;
+}
+.video__title {
+	padding-bottom: 15px;
+}
+.results__caption_after {
+	width: 44%;
+	right: 32px;
+}
+.footer__text {
+	font-size: 17px;
+}
+.carousel-control a {
+	width: 15%;
+}
+.carousel-control img {
+	width: 90%;
+}
+
+  
+}

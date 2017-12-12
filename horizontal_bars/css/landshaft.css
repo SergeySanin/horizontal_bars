@@ -1,0 +1,75 @@
+@media (min-width: 576px) and (max-width: 767px) {
+
+.block__title {
+	font-size: 23px;
+}
+.call-order {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.call-order__phone-number {
+	text-align: center;
+}
+.main-photo {
+	height: 510px;
+	background-size: 100%;
+}
+.btn-order {
+	font-size: 36px;
+	padding: 5px;
+}
+.stock {
+	width: 80%;
+    float: right;
+}
+.arrow {
+	left: 60%;
+}
+.time {
+	text-align: center;
+    float: left;
+}
+.timer {
+	padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+.advantages__title {
+	font-size: 25px;
+}
+.slider-header__text {
+	text-align: center;
+}
+.characteristics {
+	padding-top: 20px;
+}
+.btn-order {
+	font-size: 20px;
+	margin: 0;
+}
+.description {
+	margin-top: -3px;
+}
+.products__img-caption {
+	font-size: 25px;
+}
+.products__img {
+	width: 100%;
+}
+.products__text {
+	padding-top: 20px;
+}
+.results__caption_after {
+	width: 40%;
+	right: 27px;
+}
+.block {
+	text-align: center;
+}
+.footer__text {
+	font-size: 22px;
+}
+
+
+
+}

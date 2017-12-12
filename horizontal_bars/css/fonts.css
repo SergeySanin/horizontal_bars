@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'helveticaneuecyrbold_1';
+    src: url('../fonts/helveticaneuecyrbold_1.eot');
+    src: url('../fonts/helveticaneuecyrbold_1.eot') format('embedded-opentype'),
+         url('../fonts/helveticaneuecyrbold_1.woff2') format('woff2'),
+         url('../fonts/helveticaneuecyrbold_1.woff') format('woff'),
+         url('../fonts/helveticaneuecyrbold_1.ttf') format('truetype'),
+         url('../fonts/helveticaneuecyrbold_1.svg#helveticaneuecyrbold_1') format('svg');
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyrLightItalic';
+    src: url('../fonts/HelveticaNeueCyrLightItalic.eot');
+    src: url('../fonts/HelveticaNeueCyrLightItalic.eot') format('embedded-opentype'),
+         url('../fonts/HelveticaNeueCyrLightItalic.woff2') format('woff2'),
+         url('../fonts/HelveticaNeueCyrLightItalic.woff') format('woff'),
+         url('../fonts/HelveticaNeueCyrLightItalic.ttf') format('truetype'),
+         url('../fonts/HelveticaNeueCyrLightItalic.svg#HelveticaNeueCyrLightItalic') format('svg');
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyrMedium';
+    src: url('../fonts/HelveticaNeueCyrMedium.eot');
+    src: url('../fonts/HelveticaNeueCyrMedium.eot') format('embedded-opentype'),
+         url('../fonts/HelveticaNeueCyrMedium.woff2') format('woff2'),
+         url('../fonts/HelveticaNeueCyrMedium.woff') format('woff'),
+         url('../fonts/HelveticaNeueCyrMedium.ttf') format('truetype'),
+         url('../fonts/HelveticaNeueCyrMedium.svg#HelveticaNeueCyrMedium') format('svg');
+}
+
+@font-face {
+    font-family: 'helveticaneuecyrroman';
+    src: url('../fonts/helveticaneuecyrroman.eot');
+    src: url('../fonts/helveticaneuecyrroman.eot') format('embedded-opentype'),
+         url('../fonts/helveticaneuecyrroman.woff2') format('woff2'),
+         url('../fonts/helveticaneuecyrroman.woff') format('woff'),
+         url('../fonts/helveticaneuecyrroman.ttf') format('truetype'),
+         url('../fonts/helveticaneuecyrroman.svg#helveticaneuecyrroman') format('svg');
+}
+
+@font-face {
+    font-family: 'helveticaneuecyrlight';
+    src: url('../fonts/helveticaneuecyrlight.eot');
+    src: url('../fonts/helveticaneuecyrlight.eot') format('embedded-opentype'),
+         url('../fonts/helveticaneuecyrlight.woff2') format('woff2'),
+         url('../fonts/helveticaneuecyrlight.woff') format('woff'),
+         url('../fonts/helveticaneuecyrlight.ttf') format('truetype'),
+         url('../fonts/helveticaneuecyrlight.svg#helveticaneuecyrlight') format('svg');
+}
